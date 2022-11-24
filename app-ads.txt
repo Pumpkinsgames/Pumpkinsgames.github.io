@@ -1,2 +1,18 @@
 google.com, pub-9991460918752875, DIRECT, f088c47fec942fa0
 facebook.com, 430545408515914, DIRECT, c3e20eee3f780d68
+
+admixer.net, 9263b209-5693-4fc5-a6dd-caa90b5b0f5e, DIRECT
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
+e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
+aol.com,57992,RESELLER,e1a5b5b6e3255540
+Yahoo.com,57992,RESELLER,e1a5b5b6e3255540
+axonix.com, 56222, RESELLER
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+sonobi.com, 8efb591506, RESELLER, d1a215d9eb5aee9e
+adtarget.com.tr, 306742, RESELLER
+admatic.com.tr, adm-pub-185375301865, RESELLER
+improvedigital.com, 912, RESELLER
+adform.com, 2600, RESELLER
+stroeer.com, 17938, RESELLER
